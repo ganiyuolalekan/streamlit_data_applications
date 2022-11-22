@@ -7,6 +7,7 @@ Application Currently Built
 The applications present on the repository includes:
 
 1. [**Credit Card Fraud Detection**](credit-card-fraud-detection): In this project we analyzed the credit card fraud detection dataset... [read more](credit-card-fraud-detection/README.md).
+2. [**Hand Written Digit Recognition**](hand-written-digit-recognition): In this project we analyzed the hand written digit recognition dataset... [read more](credit-card-fraud-detection/README.md).
 
 # Follow Me
 
